@@ -29,6 +29,6 @@
         }
     ],
     "workbench.colorTheme": "Gruvbox Material Dark",
-    "test.sync": "this is a test setting"
+    "editor.fontSize": 14
 }
 

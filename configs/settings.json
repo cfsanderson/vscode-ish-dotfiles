@@ -28,5 +28,7 @@
             "after": ["<Esc>"]
         }
     ],
-    "workbench.colorTheme": "Gruvbox Material Dark"
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "test.sync": "this is a test setting"
 }
+

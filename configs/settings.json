@@ -1,6 +1,5 @@
 {
     "keyboard.dispatch": "code",
-    "workbench.colorTheme": "Gruvbox Material Dark",
     "vim.cursorStylePerMode.insert": "line",
     "vim.cursorStylePerMode.normal": "block",
     "vim.cursorStylePerMode.replace": "block-outline",
@@ -28,5 +27,6 @@
             "before": ["<CapsLock>"],
             "after": ["<Esc>"]
         }
-    ]
+    ],
+    "workbench.colorTheme": "Gruvbox Material Dark"
 }

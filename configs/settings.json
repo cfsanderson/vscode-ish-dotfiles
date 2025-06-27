@@ -1,0 +1,32 @@
+{
+    "keyboard.dispatch": "code",
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.replace": "block-outline",
+    "vim.cursorStylePerMode.visual": "block",
+    "vim.cursorStylePerMode.visualblock": "block",
+    "vim.cursorStylePerMode.visualline": "block",
+    "workbench.startupEditor": "none",
+    "vim.handleKeys": {
+        "<C-w>": false
+    },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["<CapsLock>"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindings": [
+        {
+            "before": ["<CapsLock>"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        {
+            "before": ["<CapsLock>"],
+            "after": ["<Esc>"]
+        }
+    ]
+}

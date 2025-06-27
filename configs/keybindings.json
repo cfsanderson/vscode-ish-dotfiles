@@ -1,0 +1,12 @@
+[
+    {
+        "key": "capslock",
+        "command": "extension.vim_escape",
+        "when": "editorTextFocus && vim.active && vim.mode == 'Insert'"
+    },
+    {
+        "key": "capslock", 
+        "command": "extension.vim_escape",
+        "when": "editorTextFocus && vim.active && vim.mode != 'Insert'"
+    }
+]

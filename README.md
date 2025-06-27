@@ -1,6 +1,6 @@
 # README
 
-## VSCode-ish Dotfiles
+## VSCode-ish Dotfiles (Linux)
 
 Configuration management for VSCode-based editors: VSCodium and Windsurf.
 
